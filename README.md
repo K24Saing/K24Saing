@@ -1,12 +1,9 @@
 # Hello, I'm Lenard K. Saing
 <a href="www.linkedin.com/in/lenardksaing"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
 I am a recent graduate pursuing a career in CyberSecurity and Information Assurance.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
 My journey in cyber security has led me to develop a passion for cybersecurity. I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
