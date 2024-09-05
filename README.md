@@ -7,7 +7,12 @@
 
 
 <h2>👔 Certifications </h2>
-  - [CompTia Security+] (
+<a href="https://github.com/K24Saing/Certifications/blob/main/CompTIA%20A%2B%20ce%20certificate.pdf">CompTIA A+</a><br>
+<a href="https://github.com/K24Saing/Certifications/blob/main/CompTIA%20Network%2B%20ce%20certificate%20(1).pdf">CompTIA Network+</a><br>
+<a href="https://github.com/K24Saing/Certifications/blob/main/CompTIA%20Security%2B%20ce%20certificate.pdf">CompTIA Security+</a><br>
+<a href="https://github.com/K24Saing/Certifications/blob/main/CompTIA%20Project%2B%20certificate.pdf">CompTIA Project+</a><br>
+<a href="https://github.com/K24Saing/Certifications/blob/main/CompTIA%20CySA%2B%20ce%20certificate.pdf">CompTIA CySA+</a><br>
+<a href="https://github.com/K24Saing/Certifications/blob/main/CompTIA%20PenTest%2B%20ce%20certificate.pdf">CompTIA PenTest+</a>
 
 <h2> 🤳 Connect with me:</h2>
 
