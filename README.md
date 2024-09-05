@@ -1,38 +1,31 @@
-# Hello, I'm Lenard K. Saing
-<a href="www.linkedin.com/in/lenardksaing"> <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<h1>Hi, I'm Lenard K. Saing! <br/>Cybersecurity Professional</a>, Digital Forensic Specialist </h1>
 
-I am a recent graduate pursuing a career in CyberSecurity and Information Assurance.
+<h2>👨‍💻 Cybersecurity Projects:</h2>
 
-## Objective
-
-My journey in cyber security has led me to develop a passion for cybersecurity. I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
-
-## Skills
-
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-
-## Tools
+- <b>Active Directory Home Lab </b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
 
-### Network
+<h2>👔 Certifications </h2>
+  - [CompTia Security+] (
 
-### Endpoint
+<h2> 🤳 Connect with me:</h2>
 
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-### SIEM
+[linkedin]: https://linkedin.com/in/joshmadakor
 
+<!--
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-## Certifications
+Here are some ideas to get you started:
 
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src<img src="https://img.shields.io/badge/-A%2B-FF5722?style=for-the-badge&logo=CompTIA&logoColor=white" alt="CompTIA A+ Badge" />
-<img src="https://img.shields.io/badge/-CySA%2B-388E3C?style=for-the-badge&logo=CompTIA&logoColor=white" alt="CompTIA CySA+ Badge" />
-<img src="https://img.shields.io/badge/-PenTest%2B-6A1B9A?style=for-the-badge&logo=CompTIA&logoColor=white" alt="CompTIA PenTest+ Badge" />
-</div>
-
-## Projects
-- Detection Lab
-- SOC Automation Project
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
