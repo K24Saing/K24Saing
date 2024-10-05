@@ -4,7 +4,7 @@
 
 - <b>Active Directory Home Lab </b>
 - <b>SOAR EDR Project </b>
-
+- <b>TryHackMe - SOC Analyst 1 </b>
 
 <h2>👔 Certifications </h2>
 <a href="https://github.com/K24Saing/Certifications/blob/main/CompTIA%20A%2B%20ce%20certificate.pdf">CompTIA A+</a><br>
