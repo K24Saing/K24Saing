@@ -1,5 +1,7 @@
 <h1>Hi, I'm Lenard K. Saing! <br/>Cybersecurity Professional</a>, Digital Forensic Specialist </h1>
 
+<h2> 📜 Education <h2>
+- <b> Bachelor's Degree in Cybersecurity and Information Assurance <b>
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b> MyDFIR SOC Analyst Course <b>
