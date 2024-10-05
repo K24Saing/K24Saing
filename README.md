@@ -2,6 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+- <b> MyDFIR SOC Analyst Course <b>
 - <b>Active Directory Home Lab </b>
 - <b>SOAR EDR Project </b>
 - <b>TryHackMe - SOC Analyst 1 </b>
