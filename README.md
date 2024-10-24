@@ -1,4 +1,4 @@
-<h1>Hi, I'm Lenard K. Saing! <br/>Aspiring Cybersecurity Professional</a>, Digital Forensic Specialist </h1>
+<h1>Hi, I'm Lenard K. Saing! <br/>Cybersecurity Junior Analyst</a>, Digital Forensic Specialist </h1>
 
 <h2> 📜 Education <h2>
 - <b> Bachelor's Degree in Cybersecurity and Information Assurance <b>
