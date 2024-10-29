@@ -5,7 +5,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b> [MyDFIR SOC Analyst Course](https://github.com/K24Saing/MyDFIR-SOC-Analyst-Course) <b>
-- <b> [TryHackMe - SOC Analyst 1](https://github.com/K24Saing/SOC-Analyst-1---TryHackMe) </b>
+- <b> [SOC Analyst 1 - TryHackMe](https://github.com/K24Saing/SOC-Analyst-1---TryHackMe) </b>
 - <b> [Active Directory Home Lab](https://github.com/K24Saing/Active-Directory-Home-Project) </b>
 - <b> [SOAR EDR Project](https://github.com/K24Saing/SOAR-EDR-Project) </b>
 
