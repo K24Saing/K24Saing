@@ -20,7 +20,6 @@ Observe <a href="https://github.com/K24Saing/MyDFIR-SOC-Analyst-Course">MyDFIR S
   
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b> [TryHackMe - SOC Analyst I](https://github.com/K24Saing/SOC-Analyst-1---TryHackMe) </b><br>
 - <b> [Active Directory Home Lab](https://github.com/K24Saing/Active-Directory-Home-Project) </b><br>
 - <b> [SOAR EDR Project](https://github.com/K24Saing/SOAR-EDR-Project) </b><br>
 
