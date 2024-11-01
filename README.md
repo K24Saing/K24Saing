@@ -16,7 +16,7 @@
 -Endpoint Analysis <br>
 <br>
 
-Check out <a href="https://github.com/K24Saing/MyDFIR-SOC-Analyst-Course">MyDFIR SOC Analyst Course*</a> for a breakdown of these technical, digital forensic SOC skills. 
+Observe <a href="https://github.com/K24Saing/MyDFIR-SOC-Analyst-Course">MyDFIR SOC Analyst Course*</a> for a breakdown of these technical SOC skills. 
   
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
