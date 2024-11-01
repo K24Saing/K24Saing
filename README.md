@@ -5,6 +5,16 @@
 
 <h2> 📜 Education <h2>
 - <b> Bachelor's Degree in Cybersecurity and Information Assurance <b>
+
+<h2> 🔍 Skills </h2>
+-SIEM Analysis (Splunk) <br>
+-Network Analysis (Wireshark & Zeek) <br>
+-Malware Analysis (Static & Dynamic) <br>
+-Email Analysis (Sublime) <br>
+-Identity & Access Management <br>
+-Sigma & Yara Rules
+-Endpoint Analysis 
+
   
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
