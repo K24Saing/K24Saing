@@ -1,13 +1,17 @@
 <h1>Hi, I'm Lenard K. Saing! <br/>Cybersecurity Analyst</a>, Digital Forensic Specialist </h1>
 
+<h2> Background </h2>
+ <b> My passion for learning cybersecurity has led me to dive deep into what it takes to provide value as a SOC Analyst. On top of getting my Bachelor's Degree in Cybersecurity, I have been working on many technical projects and labs to get into the daily grind of a real SOC environment. With the technical and analytical experience that I have gained, I believe that I can bring consistent value to your company. Thank you for taking the time to view this page.</b>
+
 <h2> 📜 Education <h2>
 - <b> Bachelor's Degree in Cybersecurity and Information Assurance <b>
+  
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b> [MyDFIR SOC Analyst Course](https://github.com/K24Saing/MyDFIR-SOC-Analyst-Course) <b>
-- <b> [SOC Analyst 1 - TryHackMe](https://github.com/K24Saing/SOC-Analyst-1---TryHackMe) </b>
-- <b> [Active Directory Home Lab](https://github.com/K24Saing/Active-Directory-Home-Project) </b>
-- <b> [SOAR EDR Project](https://github.com/K24Saing/SOAR-EDR-Project) </b>
+- <b> [MyDFIR SOC Analyst Course*](https://github.com/K24Saing/MyDFIR-SOC-Analyst-Course) <b><br>
+- <b> [TryHackMe - SOC Analyst I](https://github.com/K24Saing/SOC-Analyst-1---TryHackMe) </b><br>
+- <b> [Active Directory Home Lab](https://github.com/K24Saing/Active-Directory-Home-Project) </b><br>
+- <b> [SOAR EDR Project](https://github.com/K24Saing/SOAR-EDR-Project) </b><br>
 
 <h2>👔 Certifications </h2>
 <a href="https://github.com/K24Saing/Certifications/blob/main/CompTIA%20A%2B%20ce%20certificate.pdf">CompTIA A+</a><br>
