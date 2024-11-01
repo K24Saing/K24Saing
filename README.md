@@ -12,13 +12,14 @@
 -Malware Analysis (Static & Dynamic) <br>
 -Email Analysis (Sublime) <br>
 -Identity & Access Management <br>
--Sigma & Yara Rules
--Endpoint Analysis 
+-Sigma & Yara Rules <br>
+-Endpoint Analysis <br>
+<br>
 
+Check out <a href="https://github.com/K24Saing/MyDFIR-SOC-Analyst-Course">MyDFIR SOC Analyst Course</a> for a breakdown of these technical SOC skills. 
   
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b> [MyDFIR SOC Analyst Course*](https://github.com/K24Saing/MyDFIR-SOC-Analyst-Course) <b><br>
 - <b> [TryHackMe - SOC Analyst I](https://github.com/K24Saing/SOC-Analyst-1---TryHackMe) </b><br>
 - <b> [Active Directory Home Lab](https://github.com/K24Saing/Active-Directory-Home-Project) </b><br>
 - <b> [SOAR EDR Project](https://github.com/K24Saing/SOAR-EDR-Project) </b><br>
