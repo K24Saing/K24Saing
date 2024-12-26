@@ -1,7 +1,7 @@
 <h1>Hi, I'm Lenard K. Saing! <br/>Cybersecurity Analyst</a>, Digital Forensic Specialist </h1>
 
 <h2> Background </h2>
- <b> My passion for learning cybersecurity has led me to dive deep into what it takes to provide value as a SOC Analyst. On top of getting my Bachelor's Degree in Cybersecurity, I have been working on many technical projects and labs to get into the daily grind of a real SOC environment. With the technical and analytical experience that I have gained, I believe that I can bring consistent value to your company. Thank you for taking the time to view this page.</b>
+ <b> A natural born problem solver with a passion for learning, especially in the field of cybersecurity. This motivation and mindset led me to my main purpose in my career which is to do what it takes to provide value as a SOC Analyst. On top of getting my Bachelor's Degree in Cybersecurity, I have been working on many technical projects and labs to get into the daily procedures of a real SOC environment. Through this continuous learning of cybersecurity technologies, I'm happy to present you with my GitHub page documenting all the work that I have done. Thank you for taking the time to view this page.</b>
 
 <h2> 📜 Education <h2>
 - <b> Bachelor's Degree in Cybersecurity and Information Assurance <b>
@@ -14,6 +14,7 @@
 -Identity & Access Management <br>
 -Sigma & Yara Rules <br>
 -Endpoint Analysis <br>
+-Threat Intelligence<br>
 <br>
 
 Observe <a href="https://github.com/K24Saing/MyDFIR-SOC-Analyst-Course">MyDFIR SOC Analyst Course*</a> for a breakdown of these technical SOC skills. 
@@ -22,6 +23,7 @@ Observe <a href="https://github.com/K24Saing/MyDFIR-SOC-Analyst-Course">MyDFIR S
 
 - <b> [Active Directory Home Lab](https://github.com/K24Saing/Active-Directory-Home-Project) </b><br>
 - <b> [SOAR EDR Project](https://github.com/K24Saing/SOAR-EDR-Project) </b><br>
+- <b> 
 
 <h2>👔 Certifications </h2>
 <a href="https://github.com/K24Saing/Certifications/blob/main/CompTIA%20A%2B%20ce%20certificate.pdf">CompTIA A+</a><br>
