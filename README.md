@@ -23,7 +23,7 @@ Observe <a href="https://github.com/K24Saing/MyDFIR-SOC-Analyst-Course">MyDFIR S
 
 - <b> [Active Directory Home Lab](https://github.com/K24Saing/Active-Directory-Home-Project) </b><br>
 - <b> [SOAR EDR Project](https://github.com/K24Saing/SOAR-EDR-Project) </b><br>
-- <b> 
+- <b> [CTI Integration Project](https://github.com/K24Saing/CTI-Integration-Project) </b><br>
 
 <h2>👔 Certifications </h2>
 <a href="https://github.com/K24Saing/Certifications/blob/main/CompTIA%20A%2B%20ce%20certificate.pdf">CompTIA A+</a><br>
