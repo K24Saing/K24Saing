@@ -1,4 +1,4 @@
-<h1>Hi, I'm Lenard K. Saing! <br/>Cybersecurity Analyst</a>, Digital Forensic Specialist </h1>
+<h1>Hi, I'm Lenard K. Saing! <br/>Cybersecurity Analyst</a>
 
 <h2> Background </h2>
  <b> A natural born problem solver with a passion for learning, especially in the field of cybersecurity. This motivation and mindset led me to my main purpose in my career which is to do what it takes to provide value as a SOC Analyst. On top of getting my Bachelor's Degree in Cybersecurity, I have been working on many technical projects and labs to get into the daily procedures of a real SOC environment. Through this continuous learning of cybersecurity technologies, I'm happy to present you with my GitHub page documenting all the work that I have done. Thank you for taking the time to view this page.</b>
