@@ -5,17 +5,6 @@
 
 <h2> 📜 Education <h2>
 - <b> Bachelor's Degree in Cybersecurity and Information Assurance <b>
-
-<h2> 🔍 Skills </h2>
--SIEM Analysis (Splunk/Sentinel) <br>
--Network Analysis (Wireshark & Zeek) <br>
--Malware Analysis (Static & Dynamic) <br>
--Email Analysis (SPF, DKIM, DMARC) <br>
--Identity & Access Management <br>
--Sigma & Yara Rules <br>
--Endpoint Analysis <br>
--Threat Intelligence<br>
-<br>
   
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
@@ -23,7 +12,7 @@
 - <b> [Active Directory Home Lab](https://github.com/K24Saing/Active-Directory-Home-Project) </b><br>
 - <b> [SOAR EDR Project](https://github.com/K24Saing/SOAR-EDR-Project) </b><br>
 - <b> [CTI Integration Project](https://github.com/K24Saing/CTI-Integration-Project) </b><br>
-- <b> 
+- <b> [Microsoft Sentinel Honeypot Detection Lab](https://github.com/K24Saing/Microsoft-Sentinel-Honeypot-Detection-Lab)
 
 <h2>👔 Certifications </h2>
 <a href="https://github.com/K24Saing/Certifications/blob/main/CompTIA%20A%2B%20ce%20certificate.pdf">CompTIA A+</a><br>
