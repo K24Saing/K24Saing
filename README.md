@@ -13,6 +13,7 @@
 - <b> [SOAR EDR Project](https://github.com/K24Saing/SOAR-EDR-Project) </b><br>
 - <b> [CTI Integration Project](https://github.com/K24Saing/CTI-Integration-Project) </b><br>
 - <b> [Microsoft Sentinel Honeypot Detection Lab](https://github.com/K24Saing/Microsoft-Sentinel-Honeypot-Detection-Lab)
+- <b> [Vulnerability Management Project](https://github.com/K24Saing/Vulnerability-Management-Project)
 
 <h2>👔 Certifications </h2>
 <a href="https://github.com/K24Saing/Certifications/blob/main/CompTIA%20A%2B%20ce%20certificate.pdf">CompTIA A+</a><br>
